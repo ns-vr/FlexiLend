@@ -8,7 +8,7 @@
 
 <br>
 
-##  [LIVE PROTOTYPE](https://ai.studio/apps/6903a63b-a932-4346-aa73-0f7164a3c52c)
+##  [LIVE PROTOTYPE](https://flexilend.ai.studio)
 ---
 
 ##  THE PROBLEM
@@ -191,6 +191,6 @@ Instead of treating every missed payment as the same problem, the system attempt
 
 ### **Try the working prototype**
 
-##  [EXPERIENCE FLEXILEND](https://ai.studio/apps/6903a63b-a932-4346-aa73-0f7164a3c52c)
+##  [EXPERIENCE FLEXILEND](https://flexilend.ai.studio)
 
 **AI & Microfinance**
